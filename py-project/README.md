@@ -16,6 +16,9 @@ para abrir en Visual Studio Code
 ### gitignore io
 Pagina web para ignorar archivos
 
+### pip3 freeze
+arboles de librerias que tenemos en nuestro entorno python
+
 ### Nos Enseñan como crear el README.md
 
 # Game Project
