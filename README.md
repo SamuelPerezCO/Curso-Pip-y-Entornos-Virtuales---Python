@@ -9,3 +9,6 @@ Para saber los archivos que hay dentro de una carpeta
 
 ### touch (nombre.extension)
 para crear un archivo
+
+### code . 
+para abrir en Visual Studio Code
