@@ -12,3 +12,6 @@ para crear un archivo
 
 ### code . 
 para abrir en Visual Studio Code
+
+### gitignore io
+Pagina web para ignorar archivos
