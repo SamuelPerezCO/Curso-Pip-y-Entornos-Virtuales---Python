@@ -249,6 +249,6 @@ $RECYCLE.BIN/
 *.lnk
 
 #Agregados por Samuel
-pie.png
+app/imgs
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
