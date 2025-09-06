@@ -18,4 +18,9 @@ Pagina web para ignorar archivos
 
 ### Nos Enseñan como crear el README.md
 
-# Steps
+# Game Project
+Para Correr el juego debes seguir las siguiente instrucciones en la terminal:
+```sh
+cd game
+python3 main.py
+```
