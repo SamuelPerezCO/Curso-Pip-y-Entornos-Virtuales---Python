@@ -15,3 +15,7 @@ para abrir en Visual Studio Code
 
 ### gitignore io
 Pagina web para ignorar archivos
+
+### Nos Enseñan como crear el README.md
+
+# Steps
