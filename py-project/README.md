@@ -27,3 +27,13 @@ Para Correr el juego debes seguir las siguiente instrucciones en la terminal:
 cd game
 python3 main.py
 ```
+
+# App Project
+
+```sh
+git clone
+cd app
+env\Scripts\activate
+pip3 install -r requirements.txt
+python3 main.py
+```
